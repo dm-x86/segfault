@@ -1,0 +1,22 @@
+@page {
+	size: A4;
+	margin: 25cm;
+}
+
+html {
+	font-family: 'Inter';
+}
+
+h1 {
+	font-size: 14pt;
+}
+
+h2 {
+	font-size: 14pt;
+	page-break-after: avoid;
+}
+
+p {
+	font-size: 12pt;
+	text-align: justify;
+}
